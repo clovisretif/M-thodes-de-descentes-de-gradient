@@ -1,6 +1,6 @@
 # Équation de la chaleur 1D : méthodes de gradient en C++
 
-Projet d'Analyse Matricielle (M1 Mathématiques et Interactions, Paris-Saclay Évry).
+Projet d'Analyse Matricielle (L3 Université de Bordeaux, ingénierie mathématique).
 
 On résout l'équation de la chaleur 1D par un schéma d'Euler implicite. À chaque pas de temps, on doit résoudre un système linéaire `A x = b` où `A` est symétrique définie positive (tridiagonale). Ce système est résolu par trois méthodes itératives :
 
